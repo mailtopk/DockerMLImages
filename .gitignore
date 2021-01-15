@@ -1,0 +1,7 @@
+# All image, sframe and dataset files #
+###################
+*.jpg
+*.sframe
+**/dataset
+**/DataSetResources.md
+modelv2output
